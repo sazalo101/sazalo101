@@ -1,4 +1,8 @@
 ### Hi there 👋
+TO use the file :
+git clone :https://github.com/sazalo101/sazalo101.git
+then 
+enter the directories of the files.
 
 <!--
 **sazalo101/sazalo101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
