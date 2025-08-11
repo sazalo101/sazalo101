@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀  Code is law, and I am its author
+  Code is law, and I am its author
 hunt or be hunted
 
 
